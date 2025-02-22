@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "name": "华哥线路",
+      "url": "https://gitee.com/tears-in-water/huage/raw/master/ccc.json"
+    },
+   {
+      "name": "华哥超级线路",
+      "url": "https://gitee.com/tears-in-water/huage/raw/master/ddd.json"
+      
+    },
+    {
+      "name": "华哥秒播线路",
+      "url": "https://git.acwing.com/huage2024/huage/-/raw/main/miaobo.json"
+      
+    }
+    
+  ]
+}
